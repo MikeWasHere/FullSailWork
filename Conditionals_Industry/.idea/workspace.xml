@@ -41,7 +41,7 @@
       <file leaf-file-name="c_i.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/c_i.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.5">
+            <state line="28" column="139" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.47826087">
               <folding>
                 <element signature="n#!!doc;n#AnnualIncome#0" expanded="false" />
               </folding>
@@ -66,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="22" />
+    <option name="x" value="56" />
+    <option name="y" value="65" />
     <option name="width" value="1420" />
     <option name="height" value="813" />
   </component>
@@ -171,7 +171,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="22" width="1420" height="813" extended-state="0" />
+    <frame x="56" y="65" width="1420" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -278,7 +278,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/c_i.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.5">
+        <state line="28" column="139" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.47826087">
           <folding>
             <element signature="n#!!doc;n#AnnualIncome#0" expanded="false" />
           </folding>
