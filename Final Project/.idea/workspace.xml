@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ced2741f-a66a-476a-bc6a-56d773b1bbb0" name="Default" comment="" />
-    <ignored path="Conditionals.iws" />
+    <list default="true" id="15cef87e-04f5-4191-8853-e9213ee033f3" name="Default" comment="" />
+    <ignored path="Final Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Conditionals.html" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1374517708382" ignored="false" />
-    <file path="/Javaditionals.js" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1374860809313" ignored="false" />
-    <file path="$PROJECT_DIR$/../AdventureWorld/Example.js" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1375285312346" ignored="false" />
-    <file path="/Example.js" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1375284816535" ignored="false" />
-    <file path="$PROJECT_DIR$/../AdventureWorld/adventure.html" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1375284840207" ignored="false" />
-    <file path="/adventure.html" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1375284836199" ignored="false" />
-    <file path="$PROJECT_DIR$/../AdventureWorld/Equipment.js" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1375284843116" ignored="false" />
-    <file path="$PROJECT_DIR$/../Final Project/Final projectt.html" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1375293151001" ignored="false" />
-    <file path="$PROJECT_DIR$/../Final Project/Js/final project.js" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1375294725593" ignored="false" />
-    <file path="/final project.js" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1375294414457" ignored="false" />
-    <file path="/Final projectt.html" changelist="ced2741f-a66a-476a-bc6a-56d773b1bbb0" time="1375293151001" ignored="false" />
+    <file path="/final project.js" changelist="15cef87e-04f5-4191-8853-e9213ee033f3" time="1375294414457" ignored="false" />
+    <file path="/Final projectt.html" changelist="15cef87e-04f5-4191-8853-e9213ee033f3" time="1375293151001" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,25 +21,25 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Conditionals" />
+    <favorites_list name="Final Project" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conditionals.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conditionals.html">
+      <file leaf-file-name="Final projectt.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final projectt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="45" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
+            <state line="3" column="35" selection-start="65" selection-end="65" vertical-scroll-proportion="-1.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Javaditionals.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Javaditionals.js">
+      <file leaf-file-name="final project.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Js/final project.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="108" selection-start="782" selection-end="782" vertical-scroll-proportion="0.32608697">
+            <state line="25" column="103" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.4185022">
               <folding>
-                <element signature="n#!!doc;n#ConditionsInLife#0" expanded="false" />
+                <element signature="n#!!doc;n#Theshow#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -64,16 +55,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Conditionals.html" />
-        <option value="$PROJECT_DIR$/Javaditionals.js" />
+        <option value="$PROJECT_DIR$/Final projectt.html" />
+        <option value="$PROJECT_DIR$/Js/final project.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
-    <option name="y" value="121" />
-    <option name="width" value="1247" />
-    <option name="height" value="813" />
+    <option name="x" value="140" />
+    <option name="y" value="30" />
+    <option name="width" value="1180" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -105,8 +96,32 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Conditionals_personal" />
+              <option name="myItemId" value="Final Project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -116,7 +131,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdventureWorld" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
@@ -133,32 +147,32 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ced2741f-a66a-476a-bc6a-56d773b1bbb0" name="Default" comment="" />
-      <created>1374517606234</created>
-      <updated>1374517606234</updated>
+      <changelist id="15cef87e-04f5-4191-8853-e9213ee033f3" name="Default" comment="" />
+      <created>1375291973161</created>
+      <updated>1375291973161</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="121" width="1247" height="813" extended-state="0" />
+    <frame x="140" y="30" width="1180" height="817" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28468323" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30084747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -222,82 +236,18 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Conditionals.html">
+    <entry file="file://$PROJECT_DIR$/Final projectt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="35" selection-start="65" selection-end="65" vertical-scroll-proportion="-1.875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javaditionals.js">
+    <entry file="file://$PROJECT_DIR$/Js/final project.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="108" selection-start="782" selection-end="782" vertical-scroll-proportion="0.0">
+        <state line="25" column="103" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.4185022">
           <folding>
-            <element signature="n#!!doc;n#ConditionsInLife#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javaditionals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="21" selection-start="697" selection-end="697" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc;n#ConditionsInLife#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javaditionals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="21" selection-start="697" selection-end="697" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc;n#ConditionsInLife#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javaditionals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="12" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc;n#ConditionsInLife#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="45" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javaditionals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="108" selection-start="782" selection-end="782" vertical-scroll-proportion="0.32608697">
-          <folding>
-            <element signature="n#!!doc;n#ConditionsInLife#0" expanded="false" />
+            <element signature="n#!!doc;n#Theshow#0" expanded="false" />
           </folding>
         </state>
       </provider>
