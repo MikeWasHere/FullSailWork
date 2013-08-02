@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfa99cf-1efb-4bbe-9056-f802b32a7002" name="Default" comment="" />
-    <ignored path="AdventureWorld.iws" />
+    <list default="true" id="31a69281-44fa-4f75-82b6-7c114b6bec0f" name="Default" comment="" />
+    <ignored path="Expressions.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/adventure.html" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1375284836199" ignored="false" />
-    <file path="/AdventureWorld.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1374845969150" ignored="false" />
-    <file path="/Creatures.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1375113168078" ignored="false" />
-    <file path="$PROJECT_DIR$/../Conditionals_Industry/js/c_i.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1374859514775" ignored="false" />
-    <file path="/c_i.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1374859392823" ignored="false" />
-    <file path="/Javaditionals.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1374860809313" ignored="false" />
-    <file path="$PROJECT_DIR$/../Conditionals_personal/Javaditionals.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1374860916902" ignored="false" />
-    <file path="/Equipment.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1375283543563" ignored="false" />
-    <file path="/Example.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1375284816535" ignored="false" />
-    <file path="$PROJECT_DIR$/../Final Project/Final projectt.html" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1375293151001" ignored="false" />
-    <file path="$PROJECT_DIR$/../Final Project/Js/final project.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1375293212301" ignored="false" />
-    <file path="/final project.js" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1375293055182" ignored="false" />
-    <file path="/Final projectt.html" changelist="ddfa99cf-1efb-4bbe-9056-f802b32a7002" time="1375293151001" ignored="false" />
+    <file path="/404.html" changelist="31a69281-44fa-4f75-82b6-7c114b6bec0f" time="1374087368407" ignored="false" />
+    <file path="/main.js" changelist="31a69281-44fa-4f75-82b6-7c114b6bec0f" time="1374261916172" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/day4con/main.js" changelist="31a69281-44fa-4f75-82b6-7c114b6bec0f" time="1374259042384" ignored="false" />
+    <file path="/a.dummy" changelist="31a69281-44fa-4f75-82b6-7c114b6bec0f" time="1374245841450" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/0713-WPF/js/main.js" changelist="31a69281-44fa-4f75-82b6-7c114b6bec0f" time="1374262769189" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,53 +24,24 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="AdventureWorld" />
+    <favorites_list name="Expressions" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="adventure.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adventure.html">
+      <file leaf-file-name="404.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="28" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
+            <state line="5" column="67" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdventureWorld.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdventureWorld.js">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="8" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+            <state line="27" column="34" selection-start="984" selection-end="984" vertical-scroll-proportion="0.62116563">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Creatures.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Creatures.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="29" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Equipment.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Equipment.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Example.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="37" selection-start="592" selection-end="592" vertical-scroll-proportion="0.26086956">
-              <folding>
-                <element signature="n#!!doc;n#summerChoices#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -93,18 +56,15 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/AdventureWorld.js" />
-        <option value="$PROJECT_DIR$/Creatures.js" />
-        <option value="$PROJECT_DIR$/Equipment.js" />
-        <option value="$PROJECT_DIR$/adventure.html" />
-        <option value="$PROJECT_DIR$/Example.js" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="23" />
-    <option name="width" value="1290" />
+    <option name="x" value="10" />
+    <option name="y" value="22" />
+    <option name="width" value="1020" />
     <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -133,33 +93,32 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AdventureWorld" />
+              <option name="myItemId" value="Expressions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AdventureWorld" />
+              <option name="myItemId" value="Expressions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AdventureWorld" />
+              <option name="myItemId" value="Expressions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -170,25 +129,32 @@
       <option name="testName" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ddfa99cf-1efb-4bbe-9056-f802b32a7002" name="Default" comment="" />
-      <created>1374502899099</created>
-      <updated>1374502899099</updated>
+      <changelist id="31a69281-44fa-4f75-82b6-7c114b6bec0f" name="Default" comment="" />
+      <created>1374085500792</created>
+      <updated>1374085500792</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="23" width="1290" height="813" extended-state="0" />
-    <editor active="true" />
+    <frame x="10" y="22" width="1020" height="813" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2751938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982105" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35005015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -266,117 +232,31 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Equipment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Example.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="37" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc;n#summerChoices#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adventure.html">
+    <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdventureWorld.js">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+        <state line="22" column="37" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Creatures.js">
+    <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="24" selection-start="2384" selection-end="2384" vertical-scroll-proportion="0.0">
+        <state line="5" column="67" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adventure.html">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="27" column="34" selection-start="984" selection-end="984" vertical-scroll-proportion="0.62116563">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdventureWorld.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Creatures.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="15" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adventure.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdventureWorld.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Conditionals_Industry/C_i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adventure.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="28" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdventureWorld.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Creatures.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="29" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Equipment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Example.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="37" selection-start="592" selection-end="592" vertical-scroll-proportion="0.26086956">
-          <folding>
-            <element signature="n#!!doc;n#summerChoices#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>

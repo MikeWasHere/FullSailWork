@@ -6,7 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-Function myWorldAdventure (){
+function myWorldAdventure (){
 var myWorld = new Array(i);
 world[0] = "Mountain";
 world[1] = "Streets";
